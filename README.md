@@ -6,6 +6,14 @@ A modern, responsive website redesign for the Municipality of Cholchol, built wi
 
 This project is a complete redesign of the Cholchol Municipality website, focused on improving user experience, accessibility, and visual appeal. The new design provides a modern interface that works seamlessly across all devices and implements interactive elements to enhance user engagement.
 
+## 🌐 Live Demo
+
+Check out the live demo of the project:
+
+- **URL**: [https://municipalidadcholchol-website-zjxl.vercel.app/](https://municipalidadcholchol-website-zjxl.vercel.app/)
+- **Deployed with**: Vercel
+- **Last Updated**: [Check GitHub for latest commits](https://github.com/alexiscampusano/municipalidadcholchol-website)
+
 ## 🚀 Features
 
 - **Fully Responsive Design**: Mobile-first approach ensuring compatibility across all devices
