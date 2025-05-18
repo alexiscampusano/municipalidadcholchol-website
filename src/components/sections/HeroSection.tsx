@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { ArrowRight, ChevronLeft, ChevronRight } from 'lucide-react';
 import { Link } from 'react-router';
-import { SectionTitle } from '@/components/shared';
 import { cn } from '@/lib/utils';
 
 // Direct imports of banner images

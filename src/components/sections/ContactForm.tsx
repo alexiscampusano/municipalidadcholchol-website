@@ -5,7 +5,6 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { SectionTitle } from '@/components/shared';
 import { 
   CheckCircle2, 
-  AlertCircle, 
   Mail, 
   User, 
   MessageSquare, 

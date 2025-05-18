@@ -1,10 +1,9 @@
-import React, { useState, useRef } from 'react';
+import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router';
 import logoMunicipalidad from '@/assets/images/logo/municipalidad-logo.png';
 import {
   NavigationMenu,
   NavigationMenuItem,
-  NavigationMenuLink,
   NavigationMenuList,
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu";
