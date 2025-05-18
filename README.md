@@ -12,7 +12,7 @@ Check out the live demo of the project:
 
 - **URL**: [https://municipalidadcholchol-website-zjxl.vercel.app/](https://municipalidadcholchol-website-zjxl.vercel.app/)
 - **Deployed with**: Vercel
-- **Last Updated**: [Check GitHub for latest commits](https://github.com/alexiscampusano/municipalidadcholchol-website)
+- **Last Updated**: ![GitHub last commit](https://img.shields.io/github/last-commit/alexiscampusano/municipalidadcholchol-website) - [View commit history](https://github.com/alexiscampusano/municipalidadcholchol-website/commits/main)
 
 ## 🚀 Features
 
